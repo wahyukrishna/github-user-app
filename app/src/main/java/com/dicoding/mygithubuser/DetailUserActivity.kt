@@ -75,16 +75,6 @@ class DetailUserActivity : AppCompatActivity() {
             withContext(Dispatchers.Main){
                 statusFavorite = getId != null && getId>0
                 setStatusFavorite(statusFavorite)
-//                if(getId != null){
-//                    if(getId>0){
-//                        statusFavorite = true
-//                        setStatusFavorite(statusFavorite)
-//                    }else{
-//                        statusFavorite = false
-//                        setStatusFavorite(statusFavorite)
-//                    }
-//                }
-
             }
         }
 

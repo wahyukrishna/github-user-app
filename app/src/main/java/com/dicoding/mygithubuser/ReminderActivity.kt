@@ -4,6 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.provider.Settings
+import android.view.Menu
+import android.view.MenuItem
 import android.view.View
 import com.dicoding.mygithubuser.databinding.ActivityReminderBinding
 import com.dicoding.mygithubuser.model.Reminder
@@ -60,5 +62,15 @@ class ReminderActivity : AppCompatActivity(), View.OnClickListener {
         startActivity(mIntent)
     }
 
+    override fun onOptionsItemSelected(item: MenuItem): Boolean {
+        when(item.itemId){
+            android.R.id.home -> {
+                finish()
+                return true
+            }
+        }
+
+        return super.onOptionsItemSelected(item)
+    }
 
 }
