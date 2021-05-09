@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Github Connect</string>
+    <string name="user_name">Username</string>
+    <string name="search_hint">Cari User</string>
+    <string name="name">Nama</string>
+    <string name="user_location">Lokasi</string>
+    <string name="user_company">Perusahaan</string>
+    <string name="label_user_repo">Total Berkas</string>
+    <string name="user_count_repo">0</string>
+    <string name="tab_text_follower">Pengikut</string>
+    <string name="tab_text_following">Mengikuti</string>
+    <string name="main_first_load">Masukkan nama terlebih dahulu</string>
+    <string name="language_setting">Ubah pengaturan bahasa</string>
+    <string name="favorite">Favorit</string>
+    <string name="daily_reminder">Pengingat harian (aktif pukul 09.00)</string>
+    <string name="added">Ditambahkan ke favorit</string>
+    <string name="error_insert">coba lagi</string>
+    <string name="deleted">Dihapus dari favorit</string>
+    <string name="title">Github Connect</string>
+    <string name="favorite_title">Favorite Users</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Github C-Consumer</string>
+    <string name="user_name">Username</string>
+    <string name="search_hint">Find User</string>
+    <string name="name">Name</string>
+    <string name="user_location">Location</string>
+    <string name="user_company">Company</string>
+    <string name="label_user_repo">Total Repository</string>
+    <string name="user_count_repo">0</string>
+    <string name="tab_text_follower">Follower</string>
+    <string name="tab_text_following">Following</string>
+    <string name="main_first_load">insert username first</string>
+    <string name="language_setting">Change Language Settings</string>
+    <string name="favorite">Favorite</string>
+    <string name="appwidget_text">GitConnect Favorites</string>
+    <string name="empty_text">NO DATA</string>
+    <string name="add_widget">Add widget</string>
+</resources>
